@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Feature Friday//EN
+BEGIN:VEVENT
+DTSTART:20260320T020000Z
+DTEND:20260320T021500Z
+SUMMARY:Feature Friday – How CoPilot Can Build Your To-Do List for You
+DESCRIPTION:Presenter: Kathryn Oliver\nLead — Corporate Technology Services\n\nLunchtime Series: 15 minutes on getting useful stuff from AI\nReal AI. Real Results.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
